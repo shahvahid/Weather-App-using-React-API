@@ -1,0 +1,6 @@
+.container {
+  max-width: 720px;
+  margin: 20px auto;
+}
+
+/*This is to define a max width so it doesn't stretch in all screen*/
